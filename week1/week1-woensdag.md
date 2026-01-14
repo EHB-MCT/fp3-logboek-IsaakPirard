@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[13/01/2026]`  
+**Datum:** `[14/01/2026]`  
 **Studentnaam:** `[Isaak Pirard]`  
 **Groepsnaam:** `[LukasGPT]`
 
@@ -8,15 +8,18 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- Nutteloos moodboard gemaakt
-- 1 Design afgewerkt
+- Persona gemaakt
+- Designproces gemaakt
+- Met team besproken met welke designs we doorgaan
+- Inhoud bespreken
+- Aanmaken van de account-pagina
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- Ik heb geleerd dat je boolean bewerkingen kan doen in Figma. Dat was handig.
+- Vandaag heb ik geen nieuwe truukjes geleerd. Wel het boolean truukje een paar keren toegepast.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Hoewel vandaag erg productief voelde, is het nog steeds zo dat ik nog veel werk heb voor de deadline. Ik zal thuis nog moeten verderwerken. 🙃
+Ons design ziet er een beetje jammer uit en we hebben nog bijna niets. Guess we will figure it out 🙃
