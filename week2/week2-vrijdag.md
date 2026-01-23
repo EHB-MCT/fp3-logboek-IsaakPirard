@@ -9,7 +9,10 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 - Presentatie gegeven
+- Beetje feedback toegepast
 - Naar huis gegaan wegens ziekte
+
+UPDATE: niet meteen naar huis gegaan want er waren geen leerkrachten om aan te melden. Dus ik ben pas des middags vertrokken.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
